@@ -9,6 +9,6 @@
   "author": "Robin Millette <robin@millette.info> (http://robin.millette.info/)",
   "license": "AGPL-3.0",
   "dependencies": {
-    "got": "^9.6.0"
+    "got": "^12.5.3"
   }
 }
